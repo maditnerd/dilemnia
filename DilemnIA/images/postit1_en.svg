@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="postit1_en.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="481.37903"
+     inkscape:cy="904.76696"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="89.202377"
+       height="58.964287"
+       x="1.5119042"
+       y="0.28868982"
+       ry="5.6696506"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.6817384"
+       y="11.823421"
+       id="text819"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="6.6817384"
+         y="11.823421"
+         style="stroke-width:0.26458332">Due to a labelling error </tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="19.76092"
+         style="stroke-width:0.26458332"
+         id="tspan823">Ateloid was replace with</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="27.69842"
+         style="stroke-width:0.26458332"
+         id="tspan1992">Orzium</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="35.635921"
+         style="stroke-width:0.26458332"
+         id="tspan825" /><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="43.573421"
+         style="stroke-width:0.26458332"
+         id="tspan829">Jarisium was replace with</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="51.510921"
+         style="stroke-width:0.26458332"
+         id="tspan1996">Gerisium</tspan></text>
+  </g>
+</svg>

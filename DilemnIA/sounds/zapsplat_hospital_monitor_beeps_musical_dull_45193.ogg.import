@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zapsplat_hospital_monitor_beeps_musical_dull_45193.ogg-9590df4cb4f5b3b673184c3a5fbaa778.oggstr"
+
+[deps]
+
+source_file="res://sounds/zapsplat_hospital_monitor_beeps_musical_dull_45193.ogg"
+dest_files=[ "res://.import/zapsplat_hospital_monitor_beeps_musical_dull_45193.ogg-9590df4cb4f5b3b673184c3a5fbaa778.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

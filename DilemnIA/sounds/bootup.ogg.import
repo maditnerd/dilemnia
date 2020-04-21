@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bootup.ogg-34dbd0804a20611db918ea5272eee76e.oggstr"
+
+[deps]
+
+source_file="res://sounds/bootup.ogg"
+dest_files=[ "res://.import/bootup.ogg-34dbd0804a20611db918ea5272eee76e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

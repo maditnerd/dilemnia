@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/lcd_err02.png-d7fe90b2210c2fa425e766b17a40671f.s3tc.stex"
+path.etc2="res://.import/lcd_err02.png-d7fe90b2210c2fa425e766b17a40671f.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://fonts/lcd_err02.png"
+dest_files=[ "res://.import/lcd_err02.png-d7fe90b2210c2fa425e766b17a40671f.s3tc.stex", "res://.import/lcd_err02.png-d7fe90b2210c2fa425e766b17a40671f.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
